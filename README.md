@@ -1,1 +1,1 @@
-# Pdt-Landing-Page
+# It is an simple product landing page created using HTML, CSS.
